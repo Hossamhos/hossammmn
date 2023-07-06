@@ -3,7 +3,7 @@ pyrogram==1.4.16
 py-tgcalls
 pybase64
 youtube-search-python
-yt-dlp==2021.11.10.1
+yt-dlp==2023.7.6
 ffmpeg-python
 aiohttp
 aiofiles
